@@ -18,6 +18,9 @@ pickle: For saving and loading the trained model.
 
 flask: For creating the web interface.
 
+nltk: For natural language processing tasks, including text tokenization, stopword removal, and text cleaning.
+
+
 # Web Interface
 
 The project also includes a web interface where a user can input a message, and the model will classify it as either "Spam" or "Ham".
